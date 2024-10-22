@@ -254,6 +254,10 @@ int main()
 <br>
 
 **Outputs:**  <br>
+![image](https://github.com/user-attachments/assets/454724b6-44e4-4f78-83c2-a10581dfda1c)
+![image](https://github.com/user-attachments/assets/4d6215ba-e977-4c6a-8171-738c69725cb9)
+![image](https://github.com/user-attachments/assets/59305258-53a8-412a-a41d-259f141abf10)
+![image](https://github.com/user-attachments/assets/2490bb32-37b1-46c6-bb3e-c90a2d3c2ca8)
 
 
 
